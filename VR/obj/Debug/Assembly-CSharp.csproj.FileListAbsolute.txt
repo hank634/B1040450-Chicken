@@ -184,3 +184,6 @@ C:\Users\User\Documents\VR\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cac
 C:\Users\User\Documents\VR\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\Users\User\Documents\VR\obj\Debug\Assembly-CSharp.dll
 C:\Users\User\Documents\VR\obj\Debug\Assembly-CSharp.pdb
+C:\Users\User\Documents\GitHub\B1040450-Chicken\VR\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\B1040450-Chicken\VR\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\B1040450-Chicken\VR\obj\Debug\Assembly-CSharp.dll
